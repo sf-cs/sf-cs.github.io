@@ -199,7 +199,7 @@
         </div>
         <div class="u-container-style u-grey-75 u-group u-radius-50 u-shape-round u-group-20">
           <div class="u-container-layout u-container-layout-20">
-            <img alt="" class="u-expanded-width-sm u-expanded-width-xs u-image u-image-default u-product-control u-image-20" data-image-width="512" data-image-height="512" src="images/antiknife.png">
+            <img alt="" class="u-expanded-width-sm u-expanded-width-xs u-image u-image-default u-product-control u-image-20" data-image-width="512" data-image-height="512" src="https://github.com/sf-cs/sf-cs.github.io/blob/main/skill/B.png">
             <p class="u-align-center u-text u-text-custom-color-2 u-text-39">Антинож</p>
             <p class="u-align-left u-indent-0 u-text u-text-custom-color-2 u-text-40">Обращает действие навыка "Нож"<br>
               <br>Максимальный уровень - 3
@@ -208,7 +208,7 @@
         </div>
         <div class="u-container-style u-grey-75 u-group u-radius-50 u-shape-round u-group-21">
           <div class="u-container-layout u-container-layout-21">
-            <img alt="" class="u-expanded-width-sm u-expanded-width-xs u-image u-image-default u-product-control u-image-21" data-image-width="512" data-image-height="512" src="images/antivampirism.png">
+            <img alt="" class="u-expanded-width-sm u-expanded-width-xs u-image u-image-default u-product-control u-image-21" data-image-width="512" data-image-height="512" src="skill/B.png">
             <p class="u-align-center u-text u-text-custom-color-2 u-text-41">Антивампир</p>
             <p class="u-align-left u-indent-0 u-text u-text-custom-color-2 u-text-42">Обращает действие навыка "Вампир"<br>
               <br>Максимальный уровень - 30
